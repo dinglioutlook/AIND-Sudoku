@@ -1,3 +1,5 @@
+[The review result](https://review.udacity.com/#!/reviews/517710)
+
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
